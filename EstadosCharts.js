@@ -11,17 +11,7 @@ class EstadoCharts extends Component {
     
     render() {
 
-        //console.log(this.props.datos);
-        // console.log(this.props.datos[0].nom_agee)
-        // console.log(this.props.datos[0].pob)
-        // const n = Number(this.props.datos[0].pob)
-        // console.log(n);
-    
-        // eslint-disable-next-line
-        // {this.props.datos.map((estados, index) => (
-        //      console.log(estados.nom_agee, (index))                                    
-        // ))}
-    
+ 
 
         return (
             
